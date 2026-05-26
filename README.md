@@ -1,0 +1,2 @@
+# glinspe
+map memories
